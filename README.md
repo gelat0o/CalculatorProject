@@ -13,5 +13,7 @@ This Python script generates random mathematical exercises with varying numbers 
 - `main.py`: Python script to generate random mathematical exercises.
 - `result.txt`: Output file containing the generated exercises and their solutions.
 
+### Sample `result.txt` Content:
+
 
 
