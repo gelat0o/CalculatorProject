@@ -16,9 +16,9 @@ This Python script generates random mathematical exercises with varying numbers 
 ### Sample `result.txt` Content:
 
 2256328
-17+58-86*62=-5257.00
-97+75/30=99.50
-89*57/72*62=4368.42
-34-77/58=32.67
-92-66+42=68.00
+17 + 58 - 8662 = -5257.00
+97 + 75 / 30 = 99.50
+8957 / 72 * 62 = 4368.42
+34 - 77 / 58 = 32.67
+92 - 66 + 42 = 68.00
 
